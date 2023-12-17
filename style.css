@@ -17,9 +17,7 @@ body {
     width: 400px;
   }
   .card {
-    /* background-color: #bdb589 !important;
-     */
-
+    
      background-image: linear-gradient(to right,#373636, #dcdb70 ) !important;
     width: 300px;
   }
